@@ -1,0 +1,46 @@
+AgriChain Nigeria Prototype
+
+Overview
+
+The AgriChain Nigeria prototype demonstrates how smallholder farmers can record farming activities and receive transparent community funding using Solana.
+
+Core User Flow
+
+Farmer Registration
+
+A farmer creates a profile and registers a farm.
+
+Farm Activity Records
+
+The farmer records important milestones:
+
+- Land preparation
+- Planting
+- Fertilizer application
+- Weeding
+- Harvesting
+
+Each milestone can later be linked to on-chain records on Solana.
+
+Community Funding
+
+Supporters browse active farming projects and contribute funds.
+
+Progress Tracking
+
+Supporters can track project progress through farm updates and funding milestones.
+
+Prototype Screens
+
+1. Dashboard
+2. Farm Records
+3. Funding Projects
+4. Project Details
+
+Future Development
+
+- Solana wallet integration
+- On-chain milestone verification
+- Funding smart contracts
+- Mobile application deployment
+- Farmer reputation system
